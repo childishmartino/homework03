@@ -25,8 +25,8 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
 
-link to site: https://childishmartino.github.io/homework02/
+link to site: https://github.com/childishmartino/homework03
 
-link to repo: https://github.com/childishmartino/homework03
+link to repo: https://childishmartino.github.io/homework03/
 
-![screenshot of homework.](./assets/images/screenshothomework02.png)
+![screenshot of homework.](./assets/images/screenshothomework03.png)
